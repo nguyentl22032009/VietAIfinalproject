@@ -6,6 +6,7 @@
 > 
 > 📄 ***More at:*** baocao.pdf
 
+
 Ứng dụng dự đoán chi phí y tế cá nhân sử dụng Machine Learning (XGBoost) với giao diện Streamlit và API FastAPI.
 
 ## 📁 Cấu trúc Project
@@ -22,6 +23,8 @@ root/
 ```
 
 ## 🚀 Hướng dẫn Chạy Ứng dụng
+
+> 📺 **Demo usage:** demo.mp4
 
 ### Bước 1: Cài đặt Dependencies
 
