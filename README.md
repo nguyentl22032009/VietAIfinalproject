@@ -83,7 +83,3 @@ Ví dụ request:
 }
 ```
 
-
-
----
-*Ứng dụng được phát triển với ❤️ sử dụng Python, FastAPI, Streamlit và XGBoost*
