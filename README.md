@@ -2,7 +2,7 @@
 
 > **Final project của khóa học VietAI.**
 > 
-> 👉 **See it live:** [Hugging Face Spaces](https://huggingface.co/spaces/nguyentl2203/xgbmodelVietAI)
+> <span style="font-size:1.3em;"><b>👉 See it live:</b> <a href="https://huggingface.co/spaces/nguyentl2203/xgbmodelVietAI" target="_blank">Hugging Face Spaces</a></span>
 > 
 > 📄 ***More at:*** report.pdf
 
