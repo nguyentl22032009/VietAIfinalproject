@@ -4,7 +4,7 @@
 > 
 > 👉 **See it live:** [Hugging Face Spaces](https://huggingface.co/spaces/nguyentl2203/xgbmodelVietAI)
 > 
-> 📄 ***More at:*** baocao.pdf
+> 📄 ***More at:*** report.pdf
 
 
 Ứng dụng dự đoán chi phí y tế cá nhân sử dụng Machine Learning (XGBoost) với giao diện Streamlit và API FastAPI.
