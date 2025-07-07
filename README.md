@@ -3,6 +3,8 @@
 > **Final project của khóa học VietAI.**
 > 
 > 👉 **See it live:** [Hugging Face Spaces](https://huggingface.co/spaces/nguyentl2203/xgbmodelVietAI)
+> 
+> 📄 ***More at:*** baocao.pdf
 
 Ứng dụng dự đoán chi phí y tế cá nhân sử dụng Machine Learning (XGBoost) với giao diện Streamlit và API FastAPI.
 
@@ -11,7 +13,7 @@
 ```
 root/
 ├── main.py                                    # FastAPI backend
-├── app.py                                     # Streamlit frontend (anime-styled)
+├── app.py                                     # Streamlit frontend
 ├── notebook.ipynb                             # Jupyter notebook huấn luyện model
 ├── requirements.txt                           # Dependencies
 ├── README.md                                 # This
